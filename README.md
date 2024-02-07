@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **ETL pipelines**
 
+- 💬 I know **backend** and **frontend** development
+
 - 👨‍💻 All of my info are available at [jiayujerryliu.com](jiayujerryliu.com)
 
 - 📫 How to reach me **jl13683@nyu.edu**
 
-- ⚡ Fun fact **I love cats and I like to eat**
+- ⚡ Fun fact **I love cats, I like to eat all kinds of food but Surströmming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
