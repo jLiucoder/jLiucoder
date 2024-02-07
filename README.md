@@ -5,7 +5,7 @@
 
 - 💬 I know **backend** and **frontend** development
 
-- 👨‍💻 All of my info are available at [jiayujerryliu.com](jiayujerryliu.com)
+- 👨‍💻 All of my info are available at **[jiayujerryliu.com](https://jiayujerryliu.com)**
 
 - 📫 How to reach me **jl13683@nyu.edu**
 
