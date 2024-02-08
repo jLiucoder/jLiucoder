@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiayu</h1>
-<h3 align="center">A passionate developer and life-long student</h3>
+<h3 align="center">A passionate developer and life-long learner </h3>
 
 - 🌱 I’m currently learning **ETL pipelines**
 
