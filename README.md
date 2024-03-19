@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jiayu</h1>
-<h3 align="center">A passionate developer and life-long learner </h3>
+<h1 align="center">Hi 👋, I'm Jiayu / Jerry </h1>
+<h3 align="center">Learning is my favorite thing to do</h3>
 
 - 🌱 I’m currently learning **ETL pipelines**
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my info are available at **[jiayujerryliu.com](https://jiayujerryliu.com)**
 
-- 📫 How to reach me **jl13683@nyu.edu**
+- 📫 How to reach me **jl13683(AT)nyu(DOT)edu**
 
-- ⚡ Fun fact **I love cats, I like to eat all kinds of food but Surströmming**
+- ⚡ Fun fact **I have two cats**, **[pic](https://drive.google.com/file/d/1vAbsSRFx1XMU6X3HRONvIywxM2wplOq2/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
