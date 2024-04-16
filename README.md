@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiayu / Jerry </h1>
 <h3 align="center">Learning is my favorite thing to do</h3>
 
-- 🌱 I’m currently learning **ETL pipelines**
+- 🌱 I’m currently learning **ETL pipelines** and **GenAI related app creation (LangChain, Vector DB, etc.)**
 
 - 💬 I know **backend** and **frontend** development
 
